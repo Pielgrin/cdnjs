@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DesignRevision/shards-vue.git"
+    "url": "git://github.com/DesignRevision/shards-vue.git"
   },
   "keywords": [
     "Shards",
@@ -59,15 +59,13 @@
     "Tag",
     "Tooltip"
   ],
-  "autoupdate": {
-    "npmName": "shards-vue",
-    "npmFileMap": [
-      {
-        "basePath": "dist",
-        "files": [
-          "**/*"
-        ]
-      }
-    ]
-  }
+  "npmName": "shards-vue",
+  "npmFileMap": [
+    {
+      "basePath": "dist",
+      "files": [
+        "**/*"
+      ]
+    }
+  ]
 }
