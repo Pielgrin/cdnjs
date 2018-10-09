@@ -1,6 +1,6 @@
 {
   "name": "shards-vue",
-  "filename": "shards-vue.common.min.js",
+  "filename": "dist/shards-vue.common.min.js",
   "version": "1.0.3",
   "license": "MIT",
   "description": "A free, beautiful and modern Vue.js UI kit based on the Shards UI kit.",
