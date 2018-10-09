@@ -9,7 +9,7 @@
   "module": "dist/shards-vue.esm.js",
   "jsnext:main": "dist/shards-vue.esm.js",
   "homepage": "https://designrevision.com/downloads/shards-vue",
-  "authors": [
+  "author": [
     {
       "name": "Catalin Vasile",
       "url": "https://github.com/hisk"
@@ -119,5 +119,5 @@
         ]
       }
     ]
-  }
+  },
 }
