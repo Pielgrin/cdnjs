@@ -6,12 +6,12 @@
   "description": "A free, beautiful and modern Vue.js UI kit based on the Shards UI kit.",
   "homepage": "https://designrevision.com/downloads/shards-vue",
   "author": {
-      "name": "Catalin Vasile",
-      "url": "https://github.com/hisk"
+    "name": "Catalin Vasile",
+    "url": "https://github.com/hisk"
   },
   "repository": {
     "type": "git",
-    "url": "git+git@github.com:DesignRevision/shards-vue.git"
+    "url": "https://github.com/DesignRevision/shards-vue.git"
   },
   "keywords": [
     "Shards",
