@@ -109,13 +109,15 @@
     "uglify-js": "^3.4.8",
     "vue-template-compiler": "^2.5.17"
   },
-  "npmName": "shards-vue",
-  "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    }
-  ]
+  "autoupdate": {
+    "npmName": "shards-vue",
+    "npmFileMap": [
+      {
+        "basePath": "dist",
+        "files": [
+          "**/*"
+        ]
+      }
+    ]
+  }
 }
